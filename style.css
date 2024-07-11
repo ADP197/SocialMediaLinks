@@ -18,15 +18,15 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     height:100%;
     width:100%;
     background-color: hsl(0, 0%, 8%);
 }
 
 .panel{
-    
-    height: 60%;
-    width: 17%;
+    width: 400px;
+    height: 630px;;
     background-color: hsl(0, 0%, 12%); 
     border-radius: 15px;
 }
